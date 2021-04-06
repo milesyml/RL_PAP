@@ -1,0 +1,7 @@
+numpy
+matplotlib
+seaborn
+notebook
+gym
+tensorflow-gpu==1.15.0
+stable-baselines
