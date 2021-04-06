@@ -3,5 +3,5 @@ matplotlib
 seaborn
 notebook
 gym
-tensorflow-gpu==1.15.0
+tensorflow==1.14.0
 stable-baselines
